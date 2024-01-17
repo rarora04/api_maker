@@ -15,7 +15,7 @@ export default function App() {
       <Button
         title="Press me"
         color="#645452"
-        onPress={() => Alert.alert('Hello - Chef Owl')}
+        onPress={() => Alert.alert('Hello Chef Owl')}
       />
       </View>
       <Text></Text>
